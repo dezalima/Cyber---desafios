@@ -1,0 +1,4 @@
+password
+msfadmin
+123456
+Welcome123
